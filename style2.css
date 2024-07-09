@@ -1,0 +1,26 @@
+.centerc
+{
+    text-align: center;
+}
+
+.bg-color
+{
+    background-color: red;
+}
+
+.marg
+{
+    margin:auto;
+}
+
+.flex
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-col
+{
+    flex-direction: column;
+}
