@@ -7,4 +7,27 @@ html,body
 .button
 {
     padding: 20px;
+    margin: 0 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bolder;
+    font-size: 10px;
+}
+
+.row
+{
+    margin:  8px 0;
+}
+
+.row input
+{
+    font-size: 30px;
+    margin: 0px;
+    padding: 20px;
+    margin-left: 10px;
+    width:185px;
+
+    border: 2px solid black;
+    
 }
